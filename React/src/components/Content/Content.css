@@ -1,0 +1,189 @@
+/* .content {
+  border-radius: 10px;
+  background-color: #2d4250;
+  padding: 20px;
+  margin: 20px;
+}
+
+.content__invoice {
+  top: 100px;
+  left: 30px;
+  width: 141px;
+  height: 31px;
+  text-align: left;
+  font: normal normal normal Ubuntu;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.content__boxHeader {
+  display: flex;
+}
+
+.content__predict {
+  top: 191px;
+  left: 60px;
+  width: 106px;
+  height: 45px;
+
+  opacity: 1;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content__predictP {
+  text-align: center;
+  font: normal normal normal Ubuntu;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.content__correspondance {
+  background: transparent 0% 0% no-repeat padding-box;
+  border-radius: 10px;
+  opacity: 1;
+
+  margin: 10px;
+  top: 191px;
+  left: 186px;
+  width: 237px;
+  height: 45px;
+
+  opacity: 1;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.content__correspondanceP {
+  text-align: center;
+  font: normal normal normal Ubuntu;
+  letter-spacing: 0px;
+  color: #97a1a9;
+  opacity: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content__other {
+  display: flex;
+}
+
+.content__add {
+  top: 191px;
+  left: 1136px;
+  width: 99px;
+  height: 45px;
+
+  opacity: 1;
+  display: flex;
+  margin: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.content__edit,
+.content__minimize {
+  top: 191px;
+  left: 1136px;
+  width: 99px;
+  height: 45px;
+
+  opacity: 1;
+  display: flex;
+  margin: 10px;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.content__searchBox {
+  opacity: 1;
+  margin: 10px;
+}
+
+.content__box {
+  display: flex;
+  justify-content: space-between;
+}
+
+.content__addButton {
+  top: 202px;
+  left: 1178px;
+  width: 37px;
+  height: 23px;
+  text-align: left;
+  font: normal normal normal Ubuntu;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.content__addIcon {
+  top: 207px;
+  left: 1154px;
+  width: 14px;
+  height: 14px;
+  background: transparent 0% 0% no-repeat padding-box;
+  opacity: 1;
+  color: white;
+}
+
+.content__editButton {
+  top: 202px;
+  left: 1301px;
+  width: 36px;
+  height: 23px;
+  text-align: left;
+  font: normal normal normal Ubuntu;
+  letter-spacing: 0px;
+  color: #97a1a9;
+  opacity: 1;
+}
+
+.content__editIcon {
+  top: 207px;
+  left: 1154px;
+  width: 14px;
+  height: 14px;
+  background: transparent 0% 0% no-repeat padding-box;
+  opacity: 1;
+  color: #97a1a9;
+}
+
+.content__minimizeButton {
+  top: 202px;
+  left: 1419px;
+  width: 61px;
+  height: 23px;
+  text-align: left;
+  font: normal normal normal Ubuntu;
+  letter-spacing: 0px;
+  color: #97a1a9;
+  opacity: 1;
+}
+
+.content__minimizeIcon {
+  top: 213px;
+  left: 1395px;
+  width: 14px;
+  height: 2px;
+  background: transparent 0% 0% no-repeat padding-box;
+  opacity: 1;
+  color: #97a1a9;
+}
+
+.content__searchIcon {
+  top: 196px;
+  left: 1819px;
+  width: 32px;
+  height: 32px;
+  opacity: 1;
+  padding: 10px !important;
+  color: #97a1a9;
+} */

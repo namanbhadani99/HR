@@ -1,0 +1,15 @@
+.alignCenter{
+  width:100%;
+  text-align:center;
+}
+
+img{
+  display:inline-block;
+  height:50px;
+  margin: 0 auto;
+}
+
+.appLogo{
+  float: left;
+}
+

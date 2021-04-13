@@ -1,0 +1,19 @@
+body {
+  background-image: radial-gradient(
+    closest-side at 50% 50%,
+    #58687e 0%,
+    #39495e 100%
+  );
+  padding: 1.25vw;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.gridHeader {
+  text-align: left;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+  margin-top: 1vw;
+  margin-bottom: 1vw;
+  font: normal normal normal 28px/32px Ubuntu;
+}
